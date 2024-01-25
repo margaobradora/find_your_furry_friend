@@ -37,8 +37,7 @@ Es importante mencionar que el uso de datos de animales debe realizarse con resp
 
 ## Contribuciones y Contacto:
 
-Este proyecto fue realizado como parte de un ejercicio de análisis de datos. Si tienes alguna sugerencia, comentario o deseas contribuir, no dudes en contactarnos a través de [insertar correo electrónico o información de contacto].
-
+Este proyecto fue realizado como parte de un ejercicio de análisis de datos.
 ¡Gracias por tu interés en nuestro proyecto!
 
 ---
